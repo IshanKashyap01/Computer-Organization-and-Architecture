@@ -4,9 +4,9 @@
 
 1. [Introduction](README.md#introduction-to-coa)
 
-2. Components of computer
+2. [Components of computer](/Introduction%20to%20COA/Components%20of%20Computer/)
 
-3. Types of registers
+3. [Types of registers](Introduction%20to%20COA/Types%20of%20Registers.md)
 
 4. Instruction cycle
 
