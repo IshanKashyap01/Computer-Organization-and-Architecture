@@ -8,7 +8,7 @@
 
 3. [Types of registers](Introduction%20to%20COA/Types%20of%20Registers.md)
 
-4. Instruction cycle
+4. [Instruction cycle](Introduction%20to%20COA/Instruction%20Cycle.md)
 
 5. *Memory concept*
 

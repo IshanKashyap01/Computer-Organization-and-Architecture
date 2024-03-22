@@ -2,7 +2,7 @@
 
 ## Program Counter (PC)
 
-- Contains the starting address of the next instruction to be executed
+- Contains the starting address (virtual) of the next instruction to be executed
 
 ## Instruction Register (IR)
 
