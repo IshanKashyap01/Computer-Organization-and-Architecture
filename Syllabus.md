@@ -4,17 +4,17 @@
 
 1. [Introduction](README.md#introduction-to-coa)
 
-2. Components of computer
+2. [Components of computer](/Introduction%20to%20COA/Components%20of%20Computer/)
 
-3. Types of registers
+3. [Types of registers](Introduction%20to%20COA/Types%20of%20Registers.md)
 
-4. Instruction cycle
+4. [Instruction cycle](Introduction%20to%20COA/Instruction%20Cycle.md)
 
-5. *Memory concept*
+5. [*Memory concept*](Introduction%20to%20COA/Memory%20Concept.md)
 
-6. *Byte & word addressable* (Byte ordering; little & big endian)
+6. [*Byte & word addressable* (Byte ordering; little & big endian)](Introduction%20to%20COA/Byte%20and%20Word.md)
 
-7. System bus
+7. [System bus](Introduction%20to%20COA/System%20Bus.md)
 
 ## Instruction format & Addressing mode
 
