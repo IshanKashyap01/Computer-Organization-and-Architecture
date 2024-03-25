@@ -14,7 +14,7 @@
 
 6. [*Byte & word addressable* (Byte ordering; little & big endian)](Introduction%20to%20COA/Byte%20and%20Word.md)
 
-7. System bus
+7. [System bus](Introduction%20to%20COA/System%20Bus.md)
 
 ## Instruction format & Addressing mode
 
