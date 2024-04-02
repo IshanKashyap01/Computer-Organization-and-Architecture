@@ -18,19 +18,19 @@
 
 ## Instruction format & Addressing mode
 
-1. Instruction concept
+1. [Instruction concept](Instruction%20Format%20and%20Addressing%20Mode/Instruction%20Concept.md)
 
-2. Machine instruction
+2. [Machine instruction](Instruction%20Format%20and%20Addressing%20Mode/Machine%20Instruction.md)
 
-3. Instruction format
+3. [Instruction format](Instruction%20Format%20and%20Addressing%20Mode/Instruction%20Format.md)
 
-4. *Expand opcode technique*
+4. [*Expand opcode technique*](Instruction%20Format%20and%20Addressing%20Mode/Expand%20Opcode%20Technique.md)
 
-5. *addressing modes concept*
+5. [*addressing modes concept*](Instruction%20Format%20and%20Addressing%20Mode/Addressing%20Mode/Introduction.md)
 
-6. Types of addressing modes
+6. [Types of addressing modes](Instruction%20Format%20and%20Addressing%20Mode/Addressing%20Mode/Types.md)
 
-7. ISA
+7. [ISA](Instruction%20Format%20and%20Addressing%20Mode/ISA.md)
 
 ## ALU, Datapath & Control Unit
 
