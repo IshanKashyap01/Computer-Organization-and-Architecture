@@ -44,9 +44,9 @@
 
 ## *Floating point representation*
 
-1. IEEE 754 single precision
+1. [IEEE 754 single precision](Floating%20Point%20Representation/Float%20and%20Double.md#Single%20Precision)
 
-2. IEEE 754 double precision
+2. [IEEE 754 double precision](Floating%20Point%20Representation/Float%20and%20Double.md#Double%20Precision)
 
 ## *Cache memory*
 
