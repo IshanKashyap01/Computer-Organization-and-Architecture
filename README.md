@@ -21,4 +21,4 @@ This repository contains all my notes on the subject `COA`
 
   - That is, how various memories and I/O devices interact w/ the system
 
-*Note*: [*Commit tags*](<https://bit.ly/commit-tags>)
+*Note*: [*Commit tags*](<https://bit.ly/commit-message-tags>)
