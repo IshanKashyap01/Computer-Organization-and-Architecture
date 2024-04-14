@@ -18,13 +18,19 @@
 
 - Used by MMU to fetch and store data
 
+- Connected to the `address line` of the system bus
+
 ## Memory Buffer Register (MBR)
 
 - Temporarily holds data during data transfer b/w CPU and h/w
 
+- Connected to the `data line` of the system bus
+
 ## Data Register (DR)
 
 - Temporarily store data during processing and data transfer within the CPU
+
+- Connected to the `data line` of the system bus
 
 ## Accumulator Register (AC)
 
