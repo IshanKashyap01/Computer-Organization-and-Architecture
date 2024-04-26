@@ -34,9 +34,10 @@
 
 ## Accumulator Register (AC)
 
-- Serves as a temp storage for ALU by storing intermediate results during calculations
+- Serves as a temp storage by ALU for storing intermediate results during
+calculations
 
-- It can also be used to making decisions about branching in program flow
+- It can also be used for making decisions about branching in program flow
 
 ## Stack Pointer Register (SP)
 
