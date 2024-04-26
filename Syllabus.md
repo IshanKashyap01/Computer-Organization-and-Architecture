@@ -32,6 +32,12 @@
 
 7. [ISA](Instruction%20Format%20and%20Addressing%20Mode/ISA.md)
 
+## *Floating point representation*
+
+1. [IEEE 754 single precision](Floating%20Point%20Representation/Float%20and%20Double.md#Single%20Precision)
+
+2. [IEEE 754 double precision](Floating%20Point%20Representation/Float%20and%20Double.md#Double%20Precision)
+
 ## ALU, Datapath & Control Unit
 
 1. [*Data path*](ALU%20Datapath%20and%20CU/ALU%20Data%20path/)
@@ -41,28 +47,6 @@
 3. [*Micro program*](ALU%20Datapath%20and%20CU/Micro%20Programs.md)
 
 4. [Control Unit design](ALU%20Datapath%20and%20CU/CU%20Design.md)
-
-## *Floating point representation*
-
-1. [IEEE 754 single precision](Floating%20Point%20Representation/Float%20and%20Double.md#Single%20Precision)
-
-2. [IEEE 754 double precision](Floating%20Point%20Representation/Float%20and%20Double.md#Double%20Precision)
-
-## *Cache memory*
-
-1. Memory concept
-
-2. Types of memory organization
-
-3. Cache memory
-
-    1. Cache organization
-
-    2. Mapping technique
-
-    3. Replacement algorithm
-
-    4. Updating technique & multilevel cache
 
 ## *Pipelining*
 
@@ -81,6 +65,22 @@
     3. Control dependency
 
     4. Pipeline hazards
+
+## *Cache memory*
+
+1. Memory concept
+
+2. Types of memory organization
+
+3. Cache memory
+
+    1. Cache organization
+
+    2. Mapping technique
+
+    3. Replacement algorithm
+
+    4. Updating technique & multilevel cache
 
 ## Secondary memory & I/O interface
 
