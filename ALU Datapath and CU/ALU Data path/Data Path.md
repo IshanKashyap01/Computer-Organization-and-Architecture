@@ -2,7 +2,7 @@
 
 ## How Data is Transferred
 
-![alt](MUX.png)
+![Multiplexers](../images/MUX.png)
 
 Suppose a data transfer $R_A \rightarrow R_B$
 

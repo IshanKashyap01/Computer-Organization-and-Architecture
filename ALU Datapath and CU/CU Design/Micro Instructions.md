@@ -1,5 +1,7 @@
 # Introduction to Micro Instructions
 
+![*micro instruction format*](../images/micro%20instruction%20format.png)
+
 - The instruction cycle of a CPU has many minute operations
 
 - These operations are called `micro instructions` or `micro operations`
