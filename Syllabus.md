@@ -40,13 +40,13 @@
 
 ## ALU, Datapath & Control Unit
 
-1. [*Data path*](ALU%20Datapath%20and%20CU/ALU%20Data%20path/)
+1. [*Data path*](ALU%20Datapath%20and%20CU/ALU%20Data%20path/Data%20Path.md)
 
-2. [*Micro instructions*](ALU%20Datapath%20and%20CU/Micro%20Instructions.md)
+2. [*Micro instructions*](ALU%20Datapath%20and%20CU/CU%20Design/Micro%20Instruction.md)
 
-3. [*Micro program*](ALU%20Datapath%20and%20CU/Micro%20Programs.md)
+3. [*Micro program*](ALU%20Datapath%20and%20CU/CU%20Design/Micro%20Program.md)
 
-4. [Control Unit design](ALU%20Datapath%20and%20CU/CU%20Design.md)
+4. [Control Unit design](ALU%20Datapath%20and%20CU/CU%20Design/Introduction.md)
 
 ## *Pipelining*
 
