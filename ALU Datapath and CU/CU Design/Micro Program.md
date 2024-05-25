@@ -3,6 +3,8 @@
 The micro-operations performed in a sub-cycle are collectively called a
 `micro program`
 
+![micro](../images/microprogram%20CU.png)
+
 ## Rules for Micro Programs
 
 - Proper sequence of micro-instructions must be followed
