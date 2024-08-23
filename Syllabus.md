@@ -52,7 +52,7 @@
 
 1. [Pipeline concept](Pipelining/Pipeline%20Concept/)
 
-2. Pipeline types
+2. [Pipeline types](Pipelining/Types%20of%20Pipelines.md)
 
 3. Performance evaluation
 
