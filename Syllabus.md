@@ -54,7 +54,7 @@
 
 2. [Pipeline types](Pipelining/Types%20of%20Pipelines.md)
 
-3. Performance evaluation
+3. [Performance evaluation](Pipelining/Performance%20Gain.md)
 
 4. Dependencies in pipeline
 
