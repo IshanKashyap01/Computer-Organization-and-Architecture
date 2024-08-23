@@ -50,7 +50,7 @@
 
 ## *Pipelining*
 
-1. Pipeline concept
+1. [Pipeline concept](Pipelining/Pipeline%20Concept/)
 
 2. Pipeline types
 
